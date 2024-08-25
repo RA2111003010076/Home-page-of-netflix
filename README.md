@@ -7,6 +7,7 @@ This repository contains the code for building a Netflix-inspired home page usin
 - CSS styling: The stylesheets provide a sleek and modern look, resembling the Netflix branding.
 # Preview
 ![WhatsApp Image 2023-09-01 at 10 00 04 PM](https://github.com/RA2111003010076/Home-page-of-netflix/assets/104608963/958410cf-648d-40ad-adbf-3850caaa0144)
+https://ra2111003010076.github.io/Home-page-of-netflix/
 # License
 - This project is licensed under the MIT License. Feel free to use the code for personal or commercial purposes.
 # Contact
